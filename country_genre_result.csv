@@ -1,0 +1,25 @@
+name,genre_id,billing_country,quantity_purchased,row_num
+Alternative & Punk,4,Argentina,17,1
+Rock,1,Australia,34,1
+Rock,1,Austria,40,1
+Rock,1,Belgium,26,1
+Rock,1,Brazil,205,1
+Rock,1,Canada,333,1
+Rock,1,Chile,61,1
+Rock,1,Czech Republic,143,1
+Rock,1,Denmark,24,1
+Rock,1,Finland,46,1
+Rock,1,France,211,1
+Rock,1,Germany,194,1
+Rock,1,Hungary,44,1
+Rock,1,India,102,1
+Rock,1,Ireland,72,1
+Rock,1,Italy,35,1
+Rock,1,Netherlands,33,1
+Rock,1,Norway,40,1
+Rock,1,Poland,40,1
+Rock,1,Portugal,108,1
+Rock,1,Spain,46,1
+Rock,1,Sweden,60,1
+Rock,1,United Kingdom,166,1
+Rock,1,USA,561,1
